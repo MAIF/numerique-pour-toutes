@@ -1,4 +1,4 @@
-# 🖥 🎓 👩‍💻 Numérique pour toutes 2025
+# 🖥 🎓 👩‍💻 Numérique pour toutes 2026
 Mesdames, bienvenue à notre atelier de Coding dédié aux femmes !  
 
 Aujourd'hui, nous plongeons dans le monde fascinant du développement informatique, un domaine qui offre des opportunités infinies et qui se veut inclusif pour toutes. Que vous soyez novices ou que vous ayez déjà quelques notions, cet atelier a pour ambition de démystifier le coding tout en vous offrant une perspective concrète sur son rôle au sein des entreprises.  
@@ -14,7 +14,7 @@ Au cours de cet atelier, nous explorerons **des énoncés classés par difficult
 
 1. [Développement Web](dev-web.md)
 2. [Développement autour de l'intelligence artificielle](dev-web-ia.md)
-3. [Base de données](dev_db.md)
+3. [Base de données](atelier-data)
 
 
 
