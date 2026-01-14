@@ -1,6 +1,6 @@
 # Atelier Data - MaifStery - Murder Mystery SQL 🕵️‍♀️
 
-<img  src="./assets/1.png" alt="Header" />
+<img  src="./1.png" alt="Header" />
 
 Bienvenue dans cet atelier qui vous permettra découvrir les bases de données SQL à travers une enquête policière !  
 Votre mission : **résoudre un crime en interrogeant, non pas des suspects, mais une base de données**.
@@ -9,7 +9,7 @@ Votre mission : **résoudre un crime en interrogeant, non pas des suspects, mais
 Une **base de données** est un système qui permet d'accéder facilement à un ensemble organisé de données, de les manipuler et de les mettre à jour.  
 Comme montré ci-dessous dans le schéma, le **client** (un site web, une application, etc.) envoie une requête à une **API** (un serveur) qui va récupérer et/ou mettre à jour les données associées dans la base de données.
 
-<img  src="./assets/BDD.png" alt="BDD" />
+<img  src="./BDD.png" alt="BDD" />
 
 **Maintenant que vous êtes en possession des bases (de données), il est grand temps de se plonger dans notre affaire.**
 
@@ -20,7 +20,7 @@ La victime travaillait dans une grande compagnie d’assurance et enquêtait sur
 ## 🗺 3. Schéma de la base de données
 Voici un exemple simple de la modélisation de la base de données relative à notre enquête.  
 
-<img  src="./assets/2.png" alt="Modélisation BDD" />
+<img  src="./2.png" alt="Modélisation BDD" />
 
 La base de données contient 5 **tables** :
 - **crime_scene_report** : le rapport d'enquête avec les informations de base (date, type de crime, description, ville).
@@ -32,9 +32,9 @@ Ces tables sont liées par des identifiants (`person_id`, `membership_id`...) po
 Ces tables contiennent également plusieurs **colonnes** dans lesquelles on va venir regrouper l'information. 
 
 Voici quelques exemples du contenu des tables et de leurs colonnes sous forme de tableaux : 
-<img  src="./assets/3.png" alt="Contenu des tables 1" />
+<img  src="./3.png" alt="Contenu des tables 1" />
 
-<img  src="./assets/4.png" alt="Contenu des tables 2" />
+<img  src="./4.png" alt="Contenu des tables 2" />
 
 
 ## 🛠 4. Commandes SQL utiles
